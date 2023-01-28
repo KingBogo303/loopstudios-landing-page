@@ -192,7 +192,7 @@ header .logo {
   transition: all 0.55s ease;
 }
 .img-bx:hover img {
-  opacity: 0.4;
+  opacity: 0.6;
   transition: all 0.55s ease;
 }
 .img-bx:hover h3 {
